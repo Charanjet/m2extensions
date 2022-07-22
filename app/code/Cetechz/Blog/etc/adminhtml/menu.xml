@@ -25,6 +25,6 @@
                 resource="Cetechz_Blog::configuration"
                 title="Configuration"
                 parent="Cetechz_Blog::settings"
-                action="/blog/config/index"/>
+                action="blog/config/index"/>
     </menu>
 </config>
